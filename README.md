@@ -1,6 +1,6 @@
 # Temperature-Converter
 The Java Temperature Converter project is a console-based application designed to streamline temperature conversions between Fahrenheit and Celsius scales.
-# Skills Developed:
+## Skills Developed:
 
 Java programming fundamentals
 User input and output handling
